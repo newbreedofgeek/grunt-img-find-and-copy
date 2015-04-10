@@ -110,7 +110,7 @@ module.exports = function (grunt) {
       var resolvedDest = path.resolve(copyToDestination);
 
       if (!grunt.file.exists(resolvedDest)) {
-        grunt.verbose.error('Cannot proceed as you target directory does not exist, please create this directory first : ' + resolvedDest);
+        grunt.log.error('Error! Cannot proceed as you target directory does not exist, please create this directory first : ' + resolvedDest);
 
         return;
       }

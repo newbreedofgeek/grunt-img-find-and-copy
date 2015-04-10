@@ -67,7 +67,8 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-1.0.0 - Initial version (bugs may be found so please test and raise any issues)
+- 1.0.1 - If no build folder found, it now gives a console error.
+- 1.0.0 - Initial version (bugs may be found so please test and raise any issues).
 
 ## License
 Copyright (c) 2015 newbreedofgeek. Licensed under the MIT license.

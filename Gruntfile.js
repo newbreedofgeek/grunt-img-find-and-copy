@@ -20,7 +20,7 @@ module.exports = function (grunt) {
     img_find_and_copy: {
       resources: {
         files: {
-          'build': ['css/**/*.css', '*.html']
+          'build1': ['css/**/*.css', '*.html']
         }
       }
     },
