@@ -1,5 +1,5 @@
 /*
- * img-find-and-copy
+ * grunt-img-find-and-copy
  *
  * Copyright (c) 2015 newbreedofgeek
  * Licensed under the MIT license.
