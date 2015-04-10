@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300italic,300,400italic,700,700italic);
+
+#div5 {
+  width: 300px;
+  height: 300px;
+  background: url("../../img/slider/img3.png") 0 0 no-repeat;
+}
+
+#div6 {
+  width: 300px;
+  height: 300px;
+  background: url("http://google.com/logo.png") 0 0 no-repeat;
+}

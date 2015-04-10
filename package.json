@@ -1,0 +1,28 @@
+{
+  "name": "img-find-and-copy",
+  "version": "1.0.0",
+  "description": "A Grunt plugin to find only the used images in your CSS and HTML files and copy them to your build location.",
+  "repository": "https://github.com/newbreedofgeek/grunt-img-find-and-copy",
+  "author": {
+    "name": "newbreedofgeek",
+    "email": "",
+    "url": "http://twitter.com/newbreedofgeek"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
